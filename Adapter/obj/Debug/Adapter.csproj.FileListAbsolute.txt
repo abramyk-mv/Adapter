@@ -1,0 +1,2 @@
+E:\studing\C#\ІНДЗ\Adapter\Adapter\bin\Debug\Adapter.exe.config
+E:\studing\C#\ІНДЗ\Adapter\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
